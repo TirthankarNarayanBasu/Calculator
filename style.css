@@ -25,3 +25,8 @@ button {
     border: none;
     border-radius: 5px;
 }
+.credit {
+    margin-top: -30px;
+    color: #333;
+    font-size: 14px;
+}
